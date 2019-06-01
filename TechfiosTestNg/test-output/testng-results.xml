@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="5075" started-at="2019-06-01T08:38:26Z" finished-at="2019-06-01T08:38:31Z">
+  <suite name="Default suite" duration-ms="5049" started-at="2019-06-01T08:55:38Z" finished-at="2019-06-01T08:55:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="5075" started-at="2019-06-01T08:38:26Z" finished-at="2019-06-01T08:38:31Z">
+    <test name="Default test" duration-ms="5049" started-at="2019-06-01T08:55:38Z" finished-at="2019-06-01T08:55:43Z">
       <class name="test.LoginTest">
-        <test-method status="PASS" signature="TechfiosLoginTest()[pri:0, instance:test.LoginTest@3532ec19]" name="TechfiosLoginTest" duration-ms="5055" started-at="2019-06-01T08:38:26Z" finished-at="2019-06-01T08:38:31Z">
+        <test-method status="PASS" signature="TechfiosLoginTest()[pri:0, instance:test.LoginTest@27efef64]" name="TechfiosLoginTest" duration-ms="5022" started-at="2019-06-01T08:55:38Z" finished-at="2019-06-01T08:55:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TechfiosLoginTest -->
